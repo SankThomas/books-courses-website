@@ -15,6 +15,7 @@ export default function Home() {
           name="description"
           content="TsbSankara Books and Courses Website bootstraped with create-next-app from vercel"
         />
+        <meta name="theme-color" content="#020a19" />
         <link rel="icon" href="/favicon.ico" />
         <link rel="preconnect" href="https://fonts.gstatic.com" />
         <link
